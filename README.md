@@ -10,4 +10,4 @@ Sebuah sistem IoT(Internet Of Things) dengan menggunakan sensor gerak dan juga s
 
 ## Installation
 
-1. run file dengan arduino IDE
+1. Run file dengan arduino IDE
